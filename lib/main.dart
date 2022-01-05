@@ -25,7 +25,7 @@ void main(){
     print('yayın bitti');
     },
     onError: (error){
-    print('onError : $error');
+    print('onError35 : $error');
     },
     cancelOnError: true
   );
